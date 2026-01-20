@@ -1,0 +1,5 @@
+# .NET Build folders
+bin/
+obj/
+.vs/
+appsettings.Development.json
