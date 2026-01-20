@@ -2,4 +2,6 @@
 bin/
 obj/
 .vs/
+.suo
+.D
 appsettings.Development.json
